@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Welcome to Xiangyu's Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-01-29 12:00:00
+author:     "Xiangyu"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+Xiangyu 的 Blog 就这么开通了。
